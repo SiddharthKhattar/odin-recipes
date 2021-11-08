@@ -1,0 +1,56 @@
+/*.top{   background-image: url (../images/download.jfif) }*/
+
+h1{font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; color:#eb26a2;
+
+background-color:#c4a1ac; margin-bottom: 5px; }
+
+
+h3 { font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 1.5; color: #5b15d4;
+
+background-color:#a1c4b5; margin-bottom: 0px;  margin-top: 10px; }
+
+p { font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: lighter; line-height: 1.65; }
+
+
+/*blockquote { font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; }*/
+
+/*pre { font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px;}*/
+
+body {background-color:#14a7e0; }
+
+.first-para { background-image: url(../images/449895.jpg);
+        padding: 10px 30px; /* background-position: center ; background-position: left; background-position: right; */  line-height: 2.2;
+        margin: 10px;  background-repeat: repeat-x;
+        text-decoration:  underline;  }
+
+.abcd.ala {color: firebrick;}        
+
+.second-para  { font-family: serif; color:#34eba8 ; background-color:#524c4e ;  text-transform: capitalize;   line-height: 2.01;}
+
+.eye {font-family: cursive; font-size: 30px;   /* line-height: 0.875 ; */
+        margin-bottom: 15px;   }
+
+.godofwar { font-family: fantasy; color:#8c202b; font-size: 20px; background-color: #292223; margin-bottom: 40px;  }
+
+.godofwar li { margin-bottom: 8px; }
+
+.third-para{  text-transform: uppercase; color:#21c48e; background-color: #1c5cb0;}
+
+.eagle { color:#a85d20; }
+
+.zeus li {  background: blue; margin-bottom: 10px;  color:white;  text-align: center;   list-style-position: inside;}
+
+
+
+a{  text-decoration: none;  }
+
+a:link{ color:#3491cf; }
+a:visited {color:#ba7725; }
+a:hover { color:#f00505; }
+a:active {color:#a32960; }
+
+
+.second-para a:link { color:#401b14; }
+.second-para a:visited { color:#f5dcd7; }
+.second-para a:hover { color:#6a32b3; }
+.second-para a:active { color:#cc422d; }
